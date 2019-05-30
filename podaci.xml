@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+<artikli>
+  <artikal>
+    <ime>Pedigree Vital</ime>
+	<tip>Hrana</tip>
+	<opis>Hrana za pse svih uzrasta</opis>
+	<cena>1599din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Gumena koska</ime>
+	<tip>Igračka</tip>
+	<opis>Igračka u obliku koske</opis>
+	<cena>699din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Friskies</ime>
+	<tip>Hrana</tip>
+	<opis>Hrana za mačke uzrasta do mesec dana</opis>
+	<cena>499din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Frolic complete</ime>
+	<tip>Hrana</tip>
+	<opis>Hrana za pse</opis>
+	<cena>1999din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Kavez za ptice</ime>
+	<tip>Dodatak</tip>
+	<opis>Kavez sa ljuljaškom i posudama</opis>
+	<cena>2599din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Miš na navijanje</ime>
+	<tip>Igračka</tip>
+	<opis>Igračka za mačke</opis>
+	<cena>499din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Kitekat</ime>
+	<tip>Hrana</tip>
+	<opis>Hrana za mačke sa piletinom i povrćem</opis>
+	<cena>599din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Činija za hranu</ime>
+	<tip>Dodatak</tip>
+	<opis>Metalna činija za hranu</opis>
+	<cena>899din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Friskies grill</ime>
+	<tip>Hrana</tip>
+	<opis>Hrana za mačke sa sitnim komadićima mesa</opis>
+	<cena>499din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Ljuljaška</ime>
+	<tip>Dodatak</tip>
+	<opis>Ljuljaška za ptice u obliku srca</opis>
+	<cena>999din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Gold Patee</ime>
+	<tip>Hrana</tip>
+	<opis>Hrana za ptice</opis>
+	<cena>399din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Buddy</ime>
+	<tip>Hrana</tip>
+	<opis>Hrana za pse svih uzrasta</opis>
+	<cena>599din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Korpa za psa</ime>
+	<tip>Dodatak</tip>
+	<opis>Ležaljka, korpa za psa</opis>
+	<cena>2500din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Kanap sa oblikom kobasice</ime>
+	<tip>Igračka</tip>
+	<opis>Kanap sa četiri kobasice</opis>
+	<cena>899din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Kanap za šetanje</ime>
+	<tip>Dodatak</tip>
+	<opis>Kanap za šetanje psa koji može da se produžuje i skraćuje</opis>
+	<cena>999din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Dr. Alder</ime>
+	<tip>Hrana</tip>
+	<opis>Hrana za pse sa krupnim komadićima pilećeg mesa</opis>
+	<cena>999din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Denta stix</ime>
+	<tip>Dodatak</tip>
+	<opis>Dodatak za psa koji služi protiv zubnog kamenca</opis>
+	<cena>899din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Markies</ime>
+	<tip>Hrana</tip>
+	<opis>Goveđe rolnice za pse svih uzrasta</opis>
+	<cena>399din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Činija za hranu i vodu</ime>
+	<tip>Dodatak</tip>
+	<opis>Pseća činija za hranu i vodu</opis>
+	<cena>599din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Opti hair</ime>
+	<tip>Dodatak</tip>
+	<opis>Lekovi za poboljšanje apetita mačke</opis>
+	<cena>1999din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Felix</ime>
+	<tip>Hrana</tip>
+	<opis>Zdrava hrana za mačku sa komadićima mesa</opis>
+	<cena>399din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Whiskas junior</ime>
+	<tip>Hrana</tip>
+	<opis>Hrana za mačke sa piletinom. Za mačke do godinu dana</opis>
+	<cena>599din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Katstro plus</ime>
+	<tip>Dodatak</tip>
+	<opis>Dodatak za mačku koji služi sa bolji metabolizam mačke</opis>
+	<cena>3999din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Whiskas delice</ime>
+	<tip>Hrana</tip>
+	<opis>Goveđi komadići za mačke starije od godinu dana</opis>
+	<cena>399din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Trixie tablete</ime>
+	<tip>Dodatak</tip>
+	<opis>Dodatak za mačke koji poboljšava apetit</opis>
+	<cena>1500din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Hrana za tigrice</ime>
+	<tip>Hrana</tip>
+	<opis>Hrana specijalno napravljena za tigrice</opis>
+	<cena>599din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Merdevine sa ljuljaškama</ime>  
+	<tip>Igračka</tip>
+	<opis>Merdevine sa ljuljaškama za ptice</opis>
+	<cena>2499din.</cena>
+  </artikal>
+  <artikal>
+    <ime>Tropical finches prestige</ime>  
+	<tip>Hrana</tip>
+	<opis>Zdrava hrana za vrapce</opis>
+	<cena>249din.</cena>
+  </artikal>
+</artikli>

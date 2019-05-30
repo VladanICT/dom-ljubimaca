@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0">
+
+
+ <channel>
+     
+   <item>
+     <title>Izložba pasa</title>
+	 <description>Izložba pasa se održava već 7 godina u septembru u Kusatku. Organizator je kinološki klub "Kusadak" iz Kusatka. Na izložbi učestvuje preko 215 pasa i 65 rasa iz mnogih krajeva Srbije.Ova manifestacija je pravi doživljaj za ljubitelje pasa i decu.</description>
+   </item> 
+   <item>
+     <title>Međunarodna izložba pasa</title>
+	 <description>U nedelju, 10. aprila, od 9 časova, u Velikom parku u Kragujevcu održaće se 21. Međunarodna izložba pasa svih rasa, koju po odobrenju Međunarodne kinološke federacije (F.C.I.) organizuje Kinološko društvo "Kragujevac".</description>
+   </item>  
+   <item>
+     <title>Izložba pasa u Smed. Palanci</title>
+	 <description>U organizaciji Kinološkog društva „Mali Pas” u Smed. Palanci je održana treća Savezna izložba pasa. Vlasnici pasa prijavili su svoje ljubimce u velikom broju za različite kategorije takmičenja. Organizatori su zadovoljni i brojem posetilaca i ljubitelja pasa koji su došli da pogledaju izložbu.</description>
+   </item>   
+ 
+ </channel>
+</rss>
